@@ -2,7 +2,9 @@
 This is a collection of git repositories created in TSEA56 (Electronics
 Engineering - Bachelor Project) course.
 
-![](../images/taxi.jpg)
+![A picture of the car](https://raw.githubusercontent.com/Grupp-8-TSEA56-2022/.github/master/images/taxi.jpg)
+
+![test](.github/images/taxi.jpg)
 
 In the course an autonomus taxi car was created. 
 The car uses a camera to take pictures.
